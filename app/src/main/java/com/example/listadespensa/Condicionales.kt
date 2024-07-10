@@ -3,9 +3,9 @@ package com.example.listadespensa
 //Comprar alcohol
 
 fun main(){
-    val edad = 41
+    val edad = 27
 
-        if (edad < 18){
+        if (edad > 18){
             println("se feliz")
         }
         else if (edad >= 25 && edad < 40){
